@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Upload, RefreshCw, FileText, ChevronRight } from 'lucide-react';
 import { BankTransaction, BookTransaction, ReconciliationResult, SummaryStats, MatchStatus } from './types';
 import { parseBankCSV, parseBookCSV } from './services/parser';

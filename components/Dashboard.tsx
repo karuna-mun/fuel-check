@@ -100,7 +100,7 @@ const Dashboard: React.FC<DashboardProps> = ({ stats }) => {
                   paddingAngle={5}
                   dataKey="value"
                 >
-                  {activeData.map((entry, index) => (
+                  {activeData.map((_, index) => (
                     <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                   ))}
                 </Pie>
