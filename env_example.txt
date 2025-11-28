@@ -1,0 +1,5 @@
+# Vercel Environment Variables Example
+# ใน Vite ค่า Environment Variables ที่ต้องการให้ Client-side เห็นต้องขึ้นต้นด้วย VITE_ เท่านั้น
+
+VITE_APP_TITLE
+VITE_API_URL

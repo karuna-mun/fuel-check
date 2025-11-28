@@ -1,0 +1,5 @@
+{
+  "name": "AutoReconcile Pro",
+  "description": "ระบบกระทบยอดบัญชีอัตโนมัติ (Automated Reconciliation System) เปรียบเทียบข้อมูลระหว่าง Bank Statement และ Book Record ด้วยความแม่นยำสูง พร้อม Dashboard สรุปผล",
+  "requestFramePermissions": []
+}
